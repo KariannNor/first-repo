@@ -1,13 +1,18 @@
 h1 {
-    color: blue;
-    font-size: 10em;
+  color: blue;
+  font-size: 10em;
 }
 
 p {
-    color: darkslategrey;
-    font-size: 2em;
+  color: blue;
+  font-size: 5em;
 }
 
 li {
-    color: black:
+  color: dimgray;
+  font-size: 2em;
+}
+
+a {
+  font-size: 1em;
 }
