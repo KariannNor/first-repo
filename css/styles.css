@@ -1,6 +1,17 @@
+body {
+  margin: 50px;
+}
+
 h1 {
   color: blue;
   font-size: 10em;
+  text-decoration-line: line-through;
+}
+
+h3 {
+  color: rgb(187, 3, 144);
+  font-size: 2em;
+  margin-bottom: -10px;
 }
 
 p {
@@ -9,10 +20,14 @@ p {
 }
 
 li {
-  color: dimgray;
-  font-size: 2em;
+  color: rgb(187, 3, 144);
+  font-size: 1.5em;
 }
 
 a {
-  font-size: 1em;
+  font-size: 1.5em;
+}
+
+footer {
+  margin-top: 100px;
 }
